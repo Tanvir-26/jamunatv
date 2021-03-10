@@ -1,0 +1,340 @@
+@media only screen and (min-width:991px) and (max-width:1200px){
+    .secondsection{
+        display: none;
+    }
+    .thirdimg a{
+        margin-top: 220px;
+        font-size: 30px;
+
+    }
+    .coronahead2{
+        display: flex;
+    }
+    .affected{
+        display: flex;
+    }
+    .affected .pace{
+        width: 48%;
+      
+    }
+    .affectedno .pace{
+        width: 50%;
+    }
+    .affected p{
+        font-size: 15px;
+    }
+    .affectedno p{
+        margin-left: 0px;
+        margin-right: 0px;
+        font-size: 15px;
+    }
+    .coronahead2 .pace{
+        max-width: 50%;
+        
+    }
+    .credit .pace{
+        width: 48%;
+    }
+    .coronahead2 .world{
+        font-size: 15px;
+    }
+    .coronahead2 .bd{
+        font-size: 15px;
+    }
+}
+/* tablet mode  */
+@media only screen and (min-width:768px) and (max-width:991px){
+
+    .secondsection{
+        display: none;
+    }
+    .thirdcontent{
+        margin-left:0px ;
+        margin-right: 0px;
+    }
+
+    .thirdimg a{
+        margin-top: 250px;
+        font-size: 30px;
+
+    }
+    .thirdimg{
+        margin-bottom: 30px;
+    }
+    .thirdlist ul{
+        padding-left: 0px;
+    }
+    .headerlist ul li a:hover{
+        color: #c00;
+    }
+    .firstsection .mainlogo{
+        padding-left: 50px;
+        text-align: left;
+    }
+    .headerlist{
+        text-align: right;
+        padding-right: 40px;
+    }
+
+    /* row alignment */
+    
+    .thirdcontent{
+        margin-left: 0px ;
+        margin-right: 0px ;
+    }
+    .fourthcontent{
+        margin-left: 0px ;
+        margin-right: 0px ;
+    }
+    .firstrow{
+        margin-left: 0px ;
+        margin-right: 0px ;
+    }
+    .secondrow{
+        margin-left: 0px ;
+        margin-right: 0px ;
+    }
+    .sixthcontent{
+        margin-left: 0px ;
+        margin-right: 0px ;
+    }
+    .seventhcontent1{
+        margin-left: 0px ;
+        margin-right: 0px ;
+    }
+    .seventhcontent{
+        margin-left: 0px ;
+        margin-right: 0px ;
+    }
+    .eightrow{
+        margin-left: 0px ;
+        margin-right: 0px ;
+    }
+
+}
+
+/* mobile device */
+@media only screen and (min-width:480px) and (max-width:767px){
+
+    .firstsection .mainlogo{
+        padding-left: 20px;
+        text-align: left;
+    }
+    .menu ul{
+        padding-left: 10px;
+    }
+    .menu ul li a{
+        text-decoration: none;
+        color: white;
+        padding: 10px 15px;
+        font-size: 18px;
+    }
+    .headerlist{
+        text-align: right;
+        padding-right: 40px;
+    }
+    .thirdimg a{
+        margin-top: 220px;
+        font-size: 25px;
+    }
+    .thirdimg p{
+        font-size: 13px;
+    }
+    .thirdimg{
+        margin-bottom: 30px;
+    }
+    .thirdlist ul{
+        padding-left: 0px;
+    }
+    .secondsection{
+        display: none;
+    }
+    .coronahead2{
+        display: flex;
+    }
+    .affected{
+        display: flex;
+    }
+
+    /* row alignment */
+    
+    .thirdcontent{
+        margin-left: 0px ;
+        margin-right: 0px ;
+    }
+    .fourthcontent{
+        margin-left: 0px ;
+        margin-right: 0px ;
+    }
+    .firstrow{
+        margin-left: 0px ;
+        margin-right: 0px ;
+    }
+    .secondrow{
+        margin-left: 0px ;
+        margin-right: 0px ;
+    }
+    .sixthcontent{
+        margin-left: 0px ;
+        margin-right: 0px ;
+    }
+    .seventhcontent1{
+        margin-left: 0px ;
+        margin-right: 0px ;
+    }
+    .seventhcontent{
+        margin-left: 0px ;
+        margin-right: 0px ;
+    }
+    .eightrow{
+        margin-left: 0px ;
+        margin-right: 0px ;
+    }
+
+}
+
+/* for small device */
+@media only screen and (min-width:200px) and (max-width:479px){
+
+    .firstsection .mainlogo{
+        padding-left: 20px;
+        text-align: left;
+    }
+    .menu ul{
+        padding-left: 10px;
+    }
+    .menu ul li a{
+        text-decoration: none;
+        color: white;
+        padding: 10px 10px;
+        font-size: 15px;
+    }
+    .headerlist{
+        text-align: right;
+        padding-right: 40px;
+    }
+    .thirdimg a{
+        margin-top: 190px;
+        font-size: 20px;
+    }
+    .thirdimg p{
+        font-size: 13px;
+    }
+    .thirdimg{
+        margin-bottom: 30px;
+    }
+    .thirdlist ul{
+        padding-left: 0px;
+    }
+
+    .secondsection{
+        display: none;
+    }
+    .coronahead2{
+        display: flex;
+    }
+    .affected{
+        display: flex;
+    }
+    .affected .pace{
+        width: 48%;
+      
+    }
+    .affectedno .pace{
+        width: 50%;
+    }
+    .affected p{
+        font-size: 13px;
+    }
+    .affectedno p{
+        margin-left: 0px;
+        margin-right: 0px;
+        font-size: 13px;
+    }
+    .coronahead2 .pace{
+        max-width: 50%;
+        
+    }
+    .credit .pace{
+        width: 48%;
+    }
+    .coronahead2 .world{
+        font-size: 13px;
+    }
+    .coronahead2 .bd{
+        font-size: 13px;
+    }
+
+    /* row alignment */
+    
+.thirdcontent{
+    margin-left: 0px ;
+    margin-right: 0px ;
+}
+.fourthcontent{
+    margin-left: 0px ;
+    margin-right: 0px ;
+}
+.firstrow{
+    margin-left: 0px ;
+    margin-right: 0px ;
+}
+.secondrow{
+    margin-left: 0px ;
+    margin-right: 0px ;
+}
+.sixthcontent{
+    margin-left: 0px ;
+    margin-right: 0px ;
+}
+.seventhcontent1{
+    margin-left: 0px ;
+    margin-right: 0px ;
+}
+.seventhcontent{
+    margin-left: 0px ;
+    margin-right: 0px ;
+}
+.eightrow{
+    margin-left: 0px ;
+    margin-right: 0px ;
+}
+
+}
+@media only screen and (min-width:479px) and (max-width:576px){
+    .coronahead2{
+        display: flex;
+    }
+    .affected{
+        display: flex;
+    }
+    .affected .pace{
+        width: 48%;
+      
+    }
+    .affectedno .pace{
+        width: 50%;
+    }
+    .affected p{
+        font-size: 16px;
+    }
+    .affectedno p{
+        margin-left: 0px;
+        margin-right: 0px;
+        font-size: 16px;
+    }
+    .coronahead2 .pace{
+        max-width: 50%;
+        
+    }
+    .credit .pace{
+        width: 48%;
+    }
+    .coronahead2 .world{
+        font-size: 16px;
+    }
+    .coronahead2 .bd{
+        font-size: 16px;
+    }
+}
+
